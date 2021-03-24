@@ -29,6 +29,14 @@ export default function Home() {
       >
         Products List
       </button>
+      <hr />
+      <button
+        onClick={() => {
+          navigate("checkout-session1");
+        }}
+      >
+        Checkout-Session
+      </button>
     </div>
   );
 }

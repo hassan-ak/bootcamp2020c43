@@ -9793,6 +9793,14 @@ stripe@8.137.0:
     "@types/node" ">=8.1.0"
     qs "^6.6.0"
 
+stripe@^8.139.0:
+  version "8.139.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.139.0.tgz#f9823f973993c5e172fca0100865456604735aee"
+  integrity sha512-3Lggs0mgy8gPzIDvLGYmx5ghQuTu+nvSUBCv9Di4FekvJ5iP7nenlrOk7A4cidF1nokamKm/bCIRYxIeDv5xYQ==
+  dependencies:
+    "@types/node" ">=8.1.0"
+    qs "^6.6.0"
+
 strtok3@^6.0.3:
   version "6.0.8"
   resolved "https://registry.yarnpkg.com/strtok3/-/strtok3-6.0.8.tgz#c839157f615c10ba0f4ae35067dad9959eeca346"
