@@ -13,6 +13,14 @@ export default function Home() {
       >
         Integrate Stripe
       </button>
+      <hr />
+      <button
+        onClick={() => {
+          navigate("mutlipleProds");
+        }}
+      >
+        Multiple Products
+      </button>
     </div>
   );
 }
