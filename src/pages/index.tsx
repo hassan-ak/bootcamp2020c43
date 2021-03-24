@@ -21,6 +21,14 @@ export default function Home() {
       >
         Multiple Products
       </button>
+      <hr />
+      <button
+        onClick={() => {
+          navigate("productlist");
+        }}
+      >
+        Products List
+      </button>
     </div>
   );
 }
