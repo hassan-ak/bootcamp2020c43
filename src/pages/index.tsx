@@ -35,7 +35,15 @@ export default function Home() {
           navigate("checkout-session1");
         }}
       >
-        Checkout-Session
+        Checkout-Session 1
+      </button>
+      <hr />
+      <button
+        onClick={() => {
+          navigate("checkout-session2");
+        }}
+      >
+        Checkout-Session 2
       </button>
     </div>
   );
